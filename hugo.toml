@@ -1,0 +1,12 @@
+baseURL = 'https://whitmanenergy.com/'
+locale = 'en-us'
+title = 'Whitman Energy Solutions'
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  custom_css = ["css/custom.css"]
+  description = "Energy systems consulting"
+  recent_posts_number = 0
+  show_reading_time = false
+  site_logo = ""
