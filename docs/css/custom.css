@@ -6,3 +6,7 @@ ul, ol {
 li {
   text-align: left;
 }
+
+main, .measure {
+  text-align: left !important;
+}

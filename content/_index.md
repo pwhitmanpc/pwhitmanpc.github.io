@@ -1,6 +1,6 @@
 ---
 title: "Whitman Energy Solutions"
-description: "Optimization and Energy systems consulting"
+description: "Optimization and Energy Systems Consulting"
 ---
 
 ## Optimization & Energy Systems Consulting
