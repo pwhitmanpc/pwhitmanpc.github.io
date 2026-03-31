@@ -6,6 +6,21 @@
     <description>Recent content on Whitman Energy Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2026 09:33:39 -0400</lastBuildDate>
     <atom:link href="https://whitmanenergy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power Systems</title>
+      <link>https://whitmanenergy.com/power-systems/</link>
+      <pubDate>Mon, 30 Mar 2026 09:33:39 -0400</pubDate>
+      <guid>https://whitmanenergy.com/power-systems/</guid>
+      <description>&lt;h2 id=&#34;power-market--regulatory-expertise&#34;&gt;Power Market &amp;amp; Regulatory Expertise&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Advised on electricity market design and pricing rules, including scarcity pricing, uplift and real-time price formation&lt;/li&gt;&#xA;&lt;li&gt;Evaluated tariffs, rulemakings, and interconnection agreements for consistency with statutory requirements&lt;/li&gt;&#xA;&lt;li&gt;Developed market monitoring and mitigation approaches to detect market power and ensure compliance&lt;/li&gt;&#xA;&lt;li&gt;Modeled impacts of policy and regulatory changes on prices, investment, and system operations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>NEMS</title>
+      <link>https://whitmanenergy.com/nems/</link>
+      <pubDate>Mon, 30 Mar 2026 09:32:56 -0400</pubDate>
+      <guid>https://whitmanenergy.com/nems/</guid>
+      <description>&lt;h2 id=&#34;services&#34;&gt;Services&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NEMS install and set-up&lt;/li&gt;&#xA;&lt;li&gt;Solver tuning (CPLEX performance optimization)&lt;/li&gt;&#xA;&lt;li&gt;Model debugging and restructuring&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;selected-work&#34;&gt;Selected Work&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reducing model runtime through software tuning&lt;/li&gt;&#xA;&lt;li&gt;Improving convergence in large-scale LP models&lt;/li&gt;&#xA;&lt;li&gt;Extending modeling capabilities through new technologies such as hydrogen production&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

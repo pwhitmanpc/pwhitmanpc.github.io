@@ -10,3 +10,25 @@ publishDir = "docs"
   recent_posts_number = 0
   show_reading_time = false
   site_logo = ""
+  
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "NEMS"
+url = "/nems/"
+weight = 2
+
+[[menu.main]]
+name = "Power System Analysis"
+url = "/power-systems/"
+weight = 3
+
+[[menu.main]]
+  name = "Resume"
+  url = "/files/resumes_April_2026.pdf"
+  weight = 4
+  [menu.main.params]
+    target = "_blank"

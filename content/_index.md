@@ -5,20 +5,7 @@ description: "Optimization and Energy Systems Consulting"
 
 ## Optimization & Energy Systems Consulting
 
-I help organizations improve their understanding of the energy economy through optimizing energy-economic models. I have over three decades of experience as a developer and user of the National Energy Modeling System (NEMS).        
-
-## Services
-
-- NEMS install and set-up
-- Solver tuning (CPLEX performance optimization)
-- Model debugging and restructuring
-
-## Selected Work
-
-- Reducing model runtime through software tuning  
-- Improving convergence in large-scale LP models
-- Extending modeling capabilities through new technologies such as hydrogen production  
-
+I help organizations navigate energy markets through advanced modeling and practical experience in power market design and regulation. I bring over 30 years of experience with NEMS, including development of fuel supply-side and electricity market modules, along with direct experience in regulatory analysis and market oversight.
 
 ## Contact
 

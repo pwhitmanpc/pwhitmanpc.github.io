@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://whitmanenergy.com/power-systems/</loc>
+    <lastmod>2026-03-30T09:33:39-04:00</lastmod>
+  </url><url>
+    <loc>https://whitmanenergy.com/</loc>
+    <lastmod>2026-03-30T09:33:39-04:00</lastmod>
+  </url><url>
+    <loc>https://whitmanenergy.com/nems/</loc>
+    <lastmod>2026-03-30T09:32:56-04:00</lastmod>
+  </url><url>
     <loc>https://whitmanenergy.com/categories/</loc>
   </url><url>
     <loc>https://whitmanenergy.com/tags/</loc>
-  </url><url>
-    <loc>https://whitmanenergy.com/</loc>
   </url>
 </urlset>
