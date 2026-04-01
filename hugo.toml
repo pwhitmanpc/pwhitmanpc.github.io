@@ -1,6 +1,6 @@
 baseURL = 'https://whitmanenergy.com/'
 locale = 'en-us'
-title = 'Whitman Energy Solutions'
+title = 'Whitman Energy Solutions, LLC'
 theme = "ananke"
 publishDir = "docs"
 

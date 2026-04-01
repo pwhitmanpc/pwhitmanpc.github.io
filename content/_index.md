@@ -1,5 +1,5 @@
 ---
-title: "Whitman Energy Solutions"
+title: "Whitman Energy Solutions, LLC"
 description: "Optimization and Energy Systems Consulting"
 ---
 
